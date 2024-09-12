@@ -1,0 +1,1 @@
+django_bootstrap_datepicker_plus-0.0.0/setup.py

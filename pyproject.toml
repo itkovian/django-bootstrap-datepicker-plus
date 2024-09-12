@@ -61,6 +61,9 @@ django-filter = "^22.1"
 crispy-bootstrap5 = "^0.7"
 urllib3 = "^1.26.12"
 
+[tool.poetry.build]
+generate-setup-file = true
+
 [tool.poetry.group.dev.dependencies]
 pre-commit = "^2.20.0"
 tox = "^3.24.5"
