@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "django-bootstrap-datepicker-plus"
-version = "0.0.0"
+version = "5.0.5" # upstream version
 description = """\
     Bootstrap3/Bootstrap4/Bootstrap5 DatePickerInput, TimePickerInput, \
     DateTimePickerInput, MonthPickerInput, YearPickerInput\
